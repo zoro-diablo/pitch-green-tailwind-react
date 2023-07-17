@@ -1,0 +1,60 @@
+{
+  "reviews": [
+    {
+      "id": 1,
+      "profile_pic": "https://api.dicebear.com/6.x/adventurer/svg?seed=Misty",
+      "name": "John Doe",
+      "occupation": "Software Engineer",
+      "email": "john.doe@example.com",
+      "review": "I love this website! The user interface is intuitive and easy to navigate. The content is informative and well-presented. Overall, a fantastic experience."
+    },
+    {
+      "id": 2,
+      "profile_pic": "https://api.dicebear.com/6.x/adventurer/svg?seed=Max",
+      "name": "Jane Smith",
+      "occupation": "Graphic Designer",
+      "email": "jane.smith@example.com",
+      "review": "As a designer, I find this website visually appealing. The color scheme and layout are well thought out. It's a pleasure to browse and get inspired."
+    },
+    {
+      "id": 3,
+      "profile_pic": "https://api.dicebear.com/6.x/adventurer/svg?seed=Socks",
+      "name": "Mike Johnson",
+      "occupation": "Teacher",
+      "email": "mike.johnson@example.com",
+      "review": "This website has been a valuable educational resource for my students. The interactive elements and educational content have made learning enjoyable for them."
+    },
+    {
+      "id": 4,
+      "profile_pic": "https://api.dicebear.com/6.x/adventurer/svg?seed=Ruby",
+      "name": "Alice Turner",
+      "occupation": "Marketing Specialist",
+      "email": "alice.turner@example.com",
+      "review": "I'm impressed by this website's marketing strategy. The engaging content and clear call-to-actions have significantly boosted our conversion rates. Kudos to the team!"
+    },
+    {
+      "id": 5,
+      "profile_pic": "https://api.dicebear.com/6.x/adventurer/svg?seed=Knight",
+      "name": "David Peterson",
+      "occupation": "Project Manager",
+      "email": "david.peterson@example.com",
+      "review": "Managing projects has become a breeze with this website's project management tools. The interface is user-friendly, and it helps keep everything organized and on track."
+    },
+    {
+      "id": 6,
+      "profile_pic": "https://api.dicebear.com/6.x/adventurer/svg?seed=Sunflower",
+      "name": "Emily Miller",
+      "occupation": "Travel Blogger",
+      "email": "emily.miller@example.com",
+      "review": "This website is a treasure trove of travel information! The detailed destination guides and stunning photos inspire my wanderlust, and I can't wait to explore more places."
+    },
+    {
+      "name": "zoro-diablo",
+      "occupation": "Frontend Developer",
+      "email": "vyshnavk117@gmail.com",
+      "review": "Great website",
+      "profile_pic": "https://api.dicebear.com/6.x/adventurer/svg?seed=Fluffy",
+      "id": 7
+    }
+  ]
+}
