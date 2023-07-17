@@ -1,6 +1,6 @@
 # Pitch Green - Tailwind CSS & React Website
 
-![Pitch Green](https://yourwebsite.com/path/to/screenshot.png)
+
 
 ## Description
 
